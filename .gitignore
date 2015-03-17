@@ -1,0 +1,4 @@
+# Ignore these file types:
+#
+# Compiled python files
+*.pyc
